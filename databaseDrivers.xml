@@ -59,10 +59,23 @@
       <option name="send-app-info" value="false" />
     </driver>
     <driver id="mysql.8">
+      <url-template name="default" template="jdbc:mysql://localhost:3306/apiportal?user=root,password=raptor4" />
+      <artifact id="MySQL Connector/J" name="MySQL Connector/J" use="true" version="8.0.21" />
       <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="mysql">
+      <artifact id="MySQL Connector/J" name="MySQL Connector/J" use="true" version="5.1.47" />
       <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="mysql_aurora">
       <option name="auto-sync" value="true" />
