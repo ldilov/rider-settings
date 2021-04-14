@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'CiSearchProxy.Dispatcher.Tests'" />
-    <option name="defaultScopeName" value="Project 'CiSearchProxy.Dispatcher.Tests'" />
-    <option name="SEARCH_SCOPE" value="Project 'CiSearchProxy.Dispatcher.Tests'" />
+    <option name="customScope" value="Project 'CiSearchProxy.Dispatcher'" />
+    <option name="defaultScopeName" value="Project 'CiSearchProxy.Dispatcher'" />
+    <option name="SEARCH_SCOPE" value="Project 'CiSearchProxy.Dispatcher'" />
   </component>
 </application>
