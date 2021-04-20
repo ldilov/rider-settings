@@ -1,0 +1,10 @@
+<application>
+  <component name="Projector">
+    <option name="autostart" value="false" />
+    <option name="confirmConnection" value="true" />
+    <option name="host" value="0.0.0.0" />
+    <option name="port" value="8887" />
+    <option name="roToken" value="u68xQY08hoX" />
+    <option name="rwToken" value="Lj5tyVEUvnU" />
+  </component>
+</application>
